@@ -1,0 +1,7 @@
+path: /disk/data1/kitchen-0804
+train: train/images
+val: valid/images
+test:  test/images
+
+nc: 4
+names: ['no_hat_no_mask', 'no_hat_yes_mask', 'no_mask_yes_hat', 'yes_hat_yes_mask']

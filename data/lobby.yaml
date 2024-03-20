@@ -1,0 +1,7 @@
+path: /home/yejingx/hotel/lobby-0727
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['play_phone', 'single_hand', 'crowd', 'not_phone']
